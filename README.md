@@ -1,56 +1,59 @@
-# Hi 👋, I'm Prativa
+<h1 align="center">Hi 👋, I'm Prativa</h1>
+<h3 align="center">BCA Final Year Student | Aspiring Web & Software Developer</h3>
 
-🎓 **BCA Final Year Student**  
-💻 **Aspiring Web & Software Developer**  
-🌱 Currently improving my **Full Stack Development** skills  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Future+Software+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies;Full+Stack+Developer+in+Progress" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Final year **Bachelor of Computer Applications (BCA)** student  
-- 💻 Passionate about **Web Development & Software Development**  
-- 🌱 Currently learning **Full Stack Development**  
-- 📚 Interested in building practical projects and improving coding skills  
+🎓 Final Year **Bachelor of Computer Applications (BCA)** Student  
+💻 Passionate about **Web Development & Software Development**  
+🌱 Currently learning **Full Stack Development**  
+📚 Love building practical projects and improving coding skills  
 
 ---
 
 ## ⚡ Technical Skills
 
-### Programming Languages
-- C Programming
-- Python
-- Java
+### 💻 Programming Languages
 
-### Web Technologies
-- HTML5
-- CSS3
-- JavaScript
-- PHP
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java" />
+</p>
 
-### Databases
-- MySQL
-- Oracle
+### 🌐 Web Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</p>
+
+### 🗄️ Databases
+
+- MySQL  
+- Oracle  
 
 ---
 
 ## 📌 Projects
 
-### 1️⃣ ExamQuest
+### 📝 ExamQuest  
 **Online Examination System**
 
-- Developed a web-based platform for conducting online exams.
-- Features include exam creation, question management, and result processing.
-- Technologies used: **HTML, CSS, JavaScript, MySQL**
+- Developed a web-based platform for conducting online exams  
+- Features: exam creation, question management, and result processing  
+- Technologies: **HTML, CSS, JavaScript, MySQL**
 
 ---
 
-### 2️⃣ Smart Study Planner
+### 📚 Smart Study Planner  
 **Student Study Management System**
 
-- Helps students organize and manage their study schedules.
-- Includes features like login system, study planner, reminders, and progress tracking.
-- Technologies used: **HTML, CSS, PHP, MySQL**
+- Helps students organize and manage study schedules  
+- Features include login system, planner, reminders, and progress tracking  
+- Technologies: **HTML, CSS, PHP, MySQL**
 
 ---
 
@@ -65,10 +68,30 @@
 
 ## 📈 Goals
 
-- Improve **Full Stack Development skills**
-- Build more **real-world projects**
-- Contribute to **open-source projects**
-- Grow as a **professional software developer**
+- Improve **Full Stack Development Skills**
+- Build more **Real-world Projects**
+- Contribute to **Open Source**
+- Become a **Professional Software Developer**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
