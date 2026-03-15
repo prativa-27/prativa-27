@@ -50,7 +50,7 @@
 
 ### 📚 Smart Study Planner  
 **Student Study Management System**
-
+click:https://github.com/prativa-27/Smart-Study-Planner
 - Helps students organize and manage study schedules  
 - Features include login system, planner, reminders, and progress tracking  
 - Technologies: **HTML, CSS, PHP, MySQL**
