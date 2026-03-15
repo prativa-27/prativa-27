@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi 👋 I'm Prativa
 
-<!--
-**prativa-27/prativa-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Final Year Student  
+💻 Aspiring Web & Software Developer  
+🌱 Currently improving my Full Stack Development skills  
 
-Here are some ideas to get you started:
+⚡ Skills
+- C Programming
+- Python
+- Java
+- HTML5
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Oracle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects
+1. ExamQuest
+   - Online examination system
+   - Built using HTML, CSS, PHP and MySQL
+
+2. Smart Study Planner
+   - Helps students organize study schedules
+   - Includes login system, study planner, reminders, and progress tracking
+
+🚀 Interests
+- Web Development
+- Frontend Development
+- Backend Development
+- Software Development
